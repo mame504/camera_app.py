@@ -29,6 +29,8 @@ def main():
             if len(face_rects) > 0: #特徴点を取得できたとき
                 shape = predictor(frame, face_rects[0]) #検出した器官をshapeに保存
                 shape = face_utils.shape_to_np(shape) #shapeに保存したデータを扱いやすい形へ
+                
+                #用意した画像をフルスクリーンで表示
                 cv2.namedWindow('screen', cv2.WINDOW_NORMAL)
                 cv2.setWindowProperty('screen', cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
                 cv2.imshow('screen', img)

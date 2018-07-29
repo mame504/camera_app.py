@@ -16,7 +16,7 @@ https://qiita.com/ufoo68/items/b1379b40ae6e63ed3c79
 https://www.kunihikokaneko.com/dblab/dlib/trydlib.html
 
 
-
+[コードの実行の様子](https://youtu.be/OEtKTKJedu4)
 
 
 

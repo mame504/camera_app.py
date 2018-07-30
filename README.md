@@ -15,6 +15,11 @@ https://qiita.com/ufoo68/items/b1379b40ae6e63ed3c79
 
 https://www.kunihikokaneko.com/dblab/dlib/trydlib.html
 
+実行の様子を示した動画のリンクは以下
+
+https://youtu.be/OEtKTKJedu4
+
+
 
 
 

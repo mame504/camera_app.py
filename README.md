@@ -21,7 +21,7 @@ https://youtu.be/OEtKTKJedu4
 
 
 
-
+[コードの実行の様子](https://youtu.be/OEtKTKJedu4)
 
 
 
